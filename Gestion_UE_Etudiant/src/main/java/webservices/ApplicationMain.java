@@ -1,8 +1,7 @@
-package webservices;
+//package webservices;
 
-import javax.ws.rs.ApplicationPath;
-import javax.ws.rs.core.Application;
+//import javax.ws.rs.ApplicationPath;
+//import javax.ws.rs.core.Application;
 
-@ApplicationPath("api")
-public class ApplicationMain extends Application {
-}
+//@ApplicationPath("api")
+//public class ApplicationMain extends Application {}
